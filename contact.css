@@ -1,0 +1,70 @@
+html, body {
+    background-image: url("https://images.unsplash.com/photo-1473116763249-2faaef81ccda?ixlib=rb-1.2.1&auto=format&fit=crop&w=1373&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: seashell;
+    
+    font-family: 'Merriweather', sans-serif;
+    padding: 1em;
+  }
+
+  form {
+    max-width: 800px;
+    opacity: 0.78;
+    margin: 20px auto;
+  }
+
+  input, textarea {
+    border:0; outline:0;
+    padding: 1em;
+    
+    width: 100%;
+    margin-top: 1em;
+    font-family: 'Merriweather', sans-serif;
+    
+    resize: none;
+  }
+
+  #input-submit {
+    color: white; 
+    background: red;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+#form1 {
+    border-radius: 25px;
+    background: #000000;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    padding: 20px;
+    
+  }
+
+
+
+  #mainNAV{
+    
+	opacity: 0.7;
+	
+}
+
+.navbar {
+    min-height: 85px;
+    background-color: rgb(10, 10, 10);
+    
+  }
+  
+  .navbar-nav a{
+	font-family: poppins;
+	font-size: 20px;
+	text-transform: uppercase;
+	font-weight: bold;c
+}
+
+.navbar-brand{
+	font-family: Krona One;
+	font-weight: bold;
+
+}

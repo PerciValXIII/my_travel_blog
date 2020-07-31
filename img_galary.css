@@ -1,0 +1,54 @@
+body{
+			background: url("https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1490&q=80");
+			background-repeat: no-repeat;
+			background-size: cover;
+
+			padding-top: 65px;
+		}
+.jumbotron{
+			background-color: #ecf0f1;
+		}
+
+h1{
+	font-family: Volkhov;
+	/*font-weight: 700;*/
+
+}
+
+p{
+	padding-left: 85px;
+	font-family: Volkhov;
+	font-size: 0.5em;
+	font-weight: 200;
+
+}
+
+
+
+
+
+.navbar {
+    min-height: 85px;
+    background-color: rgb(10, 10, 10);
+    
+  }
+
+
+  .navbar-nav a{
+	font-family: poppins;
+	font-size: 20px;
+	text-transform: uppercase;
+	font-weight: bold;c
+}
+
+.navbar-brand{
+	font-family: Krona One;
+	font-weight: bold;
+
+}
+
+#mainNAV{
+    
+	opacity: 0.7;
+	
+}
